@@ -35,7 +35,7 @@ To run this project locally, follow these steps:
    npm start
    ```
 
-   The website will be accessible at `[gpt-3-rv4.pages.dev](https://gpt-3-rv4.pages.dev/)`.
+   The website will be accessible at `https://gpt-3-rv4.pages.dev/`.
 
 ## Usage
 
