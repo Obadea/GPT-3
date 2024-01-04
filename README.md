@@ -35,7 +35,7 @@ To run this project locally, follow these steps:
    npm start
    ```
 
-   The website will be accessible at `http://localhost:3000`.
+   The website will be accessible at `gpt-3-rv4.pages.dev`.
 
 ## Usage
 
