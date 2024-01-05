@@ -4,7 +4,7 @@ import "./whatGPT3.css";
 
 const WhatGPT3 = () => {
   return (
-    <div className="gpt3__whatgpt3 section__margin" name="wgpt3">
+    <div className="gpt3__whatgpt3" name="wgpt3">
       <div className="gpt3__whatgpt3-feature">
         <Feature
           title="What is GPT-3"
