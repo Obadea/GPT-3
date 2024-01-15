@@ -15,22 +15,22 @@ const Navbar = () => {
         </Link>
       </p>
       <p>
-        <Link to="wgpt3" smooth={true} duration={1000}>
+        <Link to="wgpt3" smooth={true} duration={500}>
           What is GPT3?
         </Link>
       </p>
       <p>
-        <Link to="possibility" smooth={true} duration={1300}>
+        <Link to="possibility" smooth={true} duration={500}>
           Open AI
         </Link>
       </p>
       <p>
-        <Link to="features" smooth={true} duration={1300}>
+        <Link to="features" smooth={true} duration={500}>
           Case Studies
         </Link>
       </p>
       <p>
-        <Link to="blog" smooth={true} duration={1400}>
+        <Link to="blog" smooth={true} duration={500}>
           Library
         </Link>
       </p>
